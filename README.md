@@ -8,7 +8,9 @@ To analyse the covid data for India on SQL.
 
 ## About data
 Delta: Data of the given date
+
 Delta7: 7 days Moving Average data
+
 Total: Moving total of tested, recovered, and deceased
 
 
