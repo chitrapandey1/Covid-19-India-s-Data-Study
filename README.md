@@ -20,12 +20,19 @@ Total: Moving total of tested, recovered, and deceased
 
 ## Process
 Step 1: Got Data from Json Link
+
 Step 2: Converetd Data from Json to dataframes using Pandas
+
 Step 3: Done the cleaning process
+
 Step 4: Convert the dataframes to csv
+
 Step 5: Imported Data in SQL
+
 Step 6: Created Pivot tables and views
+
 Step 7: Done some Analysis to get tables to draw insights
+
 Step 8: Used Excel to get all the tables and build dashboard
 
 
